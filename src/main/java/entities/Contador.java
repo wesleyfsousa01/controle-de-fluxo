@@ -1,6 +1,6 @@
 package entities;
 
-import exeptions.ParametrosInvalidosException;
+import exceptions.ParametrosInvalidosException;
 
 import java.util.Scanner;
 public class Contador {
